@@ -1,0 +1,19 @@
+>git branch pz_1_3_1
+>git checkout pz_1_3_1
+>git branch
+>git add pz_1_3_1.txt
+>git commit -m "клон створеного глобального репозиторію"
+>git commit -m "Створити в даній директорії файл numbPIB.txt"
+>git add pz_1_3_1.txt
+>git commit -m "створити 1comm"
+>git add pz_1_3_1.txt
+>git commit -m "створити 2comm"
+>git add pz_1_3_1.txt
+>git commit -m "відправити зміни на глобальний репозиторій GitHub"
+>git checkout master
+>git branch
+>git merge pz_1_3_1
+>git branch -D pz_1_3_1
+>git push
+>git branch developer
+>git checkout developer
