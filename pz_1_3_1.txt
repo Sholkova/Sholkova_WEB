@@ -3,3 +3,4 @@ git add 22SHAO.txt
 git commit -m "1comm"
 git add 22SHAO.txt
 git commit -m "2comm"
+git push
